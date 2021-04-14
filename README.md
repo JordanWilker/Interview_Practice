@@ -36,3 +36,14 @@ S) When working with the kids at the Y,
 T) I would constantly prepare massive stories for the kids to add characters into
 A) I would start telling a story, and ask for names and objects, and make fun mad libs
 R) This resulted in me always being selected to read the books at story time
+
+
+Prepare for an interview:
+Get lots of sleep, account for possible traffic, rehearse questions and answers, and show up clean.
+One thing to do to stand out as a candidate is to not hesitate and look like you are really prepared by speaking slowly and clearly.
+
+Elevator Pitch:
+Of course. Before I got into software development, I worked in the Child Development department at the YMCA. I had always enjoyed working with children, with a passion for it starting at a relatively while teaching martial arts. While at the Y, I worked in children of all ages, from the babies all the way up to pre-teens. The main job I did for the Y was to help run the summer and school break camps. After proving myself quite apt at STEM, I was moved to work almost every single STEM camp their was. I taught about everything from robotics to geology. I was during this time that I discovered my passion for coding and software development. One of the most popular STEM camps at the YMCA was the coding camp, which I got placed in charge of. During the process of teaching myself how to code so I could help teach the kids, I found the coding and technical aspect very enjoyable and started continuing my education on my own after the camps were over. After a small amount of self teaching, I was drawn to codeworks, where I learned to make full-stack applications in a short 13 weeks. While there I managed to learn, Javascript, VUE, Nodejs, and mySQL.
+
+
+
